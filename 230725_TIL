@@ -1,0 +1,7 @@
+# set
+
+## 세트 메서드
+s.add(x)  세트 s에 항목 x 추가
+s.clear()  세트 s 모든 항목 제거
+s.remove(x)  세트 s에서 항목 x 제거
+s.pop()
